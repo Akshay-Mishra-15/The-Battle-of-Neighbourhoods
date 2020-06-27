@@ -5,7 +5,6 @@ With it’s diverse culture , comes diverse food items. There are many restauran
 So as part of this project , we will list and visualize all major parts of New Delhi City .
 
 Questions that can be asked using the above mentioned datasets
-What is best location in New Delhi City for Italian Cuisine ?
 Which areas have large number of Italian Resturant Market ?
 Which all areas have less number of resturant ?
 Which is the best place to stay if I prefer Italian Cuisine ?
